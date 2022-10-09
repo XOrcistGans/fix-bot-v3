@@ -50,7 +50,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
 global.sig = 'https://instagram.com/kingdomidn_' // ig
-global.sgh = 'https://github.com/XOrcistGans' // github
+global.sgh = 'https://github.com/XOrcistGans/bot3' // github
 global.sgc = 'https://chat.whatsapp.com/E7RjKTLKinoC7HZ7xxuU1m' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://youtube.com/channel/UCWUQQiIXZlni9OF-kXtbNlA' // my youtube channel
@@ -74,7 +74,7 @@ global.nameown = '𝐗𝐎𝐫𝐜𝐢𝐬𝐭𝐆𝐚𝐧𝐬'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'XOrcistGans' // nama github lu
-global.linkgithub = 'https://github.com/XOrcistGans' // tarok link github lu
+global.linkgithub = 'https://github.com/XOrcistGans/bot3' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
