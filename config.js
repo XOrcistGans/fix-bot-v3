@@ -50,7 +50,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
 global.sig = 'https://instagram.com/kingdomidn_' // ig
-global.sgh = 'https://github.com/XOrcistGans/bot3' // github
+global.sgh = 'https://github.com/XOrcistGans/fix-bot-v3' // github
 global.sgc = 'https://chat.whatsapp.com/E7RjKTLKinoC7HZ7xxuU1m' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://youtube.com/channel/UCWUQQiIXZlni9OF-kXtbNlA' // my youtube channel
@@ -154,11 +154,11 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/F86kdtB/20221005-015218.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/F86kdtB/20221005-015218.jpg'
+global.thumb = 'https://i.ibb.co/XsZKC07/1649838304960.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/XsZKC07/1649838304960.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/F86kdtB/20221005-015218.jpg']
-global.fla = 'https://i.ibb.co/F86kdtB/20221005-015218.jpg'
+global.thumbs = ['https://i.ibb.co/XsZKC07/1649838304960.jpg']
+global.fla = 'https://i.ibb.co/XsZKC07/1649838304960.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
