@@ -1308,9 +1308,9 @@ export async function participantsUpdate({ id, participants, action }) {
     sourceUrl: sgc
      }}
   })*/
-  let welcom = 'https://telegra.ph/file/aab124271570c51f76aac.jpg'
+  let welcom = 'https://i.ibb.co/XsZKC07/1649838304960.jpg'
 
-  let godbye = 'https://telegra.ph/file/deaf59bc3e5216eaae814.jpg'
+  let godbye = 'https://i.ibb.co/XsZKC07/1649838304960.jpg'
   conn.sendButtonImg(id, await(await fetch(action === 'add' ? wel : lea)).buffer(), 'Group Messege', text, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : '𝐗𝐎𝐫𝐜𝐢𝐬𝐭𝐆𝐚𝐧𝐬 - 𝐁𝐎𝐓', fakes, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'https://www.instagram.com/kingdomidn_',
     mediaType: 2, 
